@@ -15,7 +15,12 @@ S.No	Name of the Apparatus	Range	Quantity
 6	Digital Voltmeter	(0-20)V DC	1
 7	Connecting Wires	As Required	
 
-CIRCUIT DIAGRAM:
+LINE REGULATION CIRCUIT DIAGRAM:
+<img width="756" height="331" alt="exp 5 1" src="https://github.com/user-attachments/assets/aa4893be-d089-4c15-9edc-f97135765d63" />
+
+LOAD REGULATION CIRCUIT DIAGRAM:
+<img width="763" height="320" alt="exp 5 2" src="https://github.com/user-attachments/assets/7e7a23ac-e2e4-4937-8ba4-5d6c1edc9780" />
+
 THEORY:
 	
 A zener diode is heavily doped p-n junction diode, specially made to operate in the break down region. A p-n junction diode normally does not conduct when reverse biased. But if the reverse bias is increased, at a particular voltage it starts conducting heavily. This voltage is called Break down Voltage. High current through the diode can permanently damage the device To avoid high current, we connect a resistor in series with zener diode. Once the diode starts conducting it maintains almost constant voltage across the terminals what ever may be the current through it, i.e., it has very low dynamic resistance. It is used in voltage regulators.
@@ -27,11 +32,24 @@ PROCEDURE:
 3. The voltage across the diode (Vz.) remains almost constant although the current through the diode increases. This voltage serves as reference voltage.
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
+
 OBSERVATIONS:
 
-REGULATION CHARACTERISTICS:
+LINE REGULATION TABULATION:
 
-V-I & REGULATION CHARACTERISTICS:
+<img width="769" height="344" alt="exp 5 3" src="https://github.com/user-attachments/assets/21cfc095-64bc-4cd7-8ee3-c7dc953a33ad" />
+
+LOAD REGULATION TABULATION:
+
+<img width="763" height="321" alt="exp 5 4" src="https://github.com/user-attachments/assets/38ad18bd-0256-40f2-807e-751236f32441" />
+
+LINE REGULATION MODEL GRAPH:
+
+<img width="781" height="369" alt="exp 5 5" src="https://github.com/user-attachments/assets/f3808337-3d9a-40a3-822a-c12a360163ec" />
+
+LOAD REGULATION MODEL GRAPH:
+
+<img width="762" height="349" alt="exp 5 6" src="https://github.com/user-attachments/assets/913ad6f3-477e-48ce-90b4-7adc13cfc588" />
 
 PRECAUTIONS:
 
